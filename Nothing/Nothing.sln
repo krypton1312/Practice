@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repeated substring", "repea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "move zeroes", "move zeroes\move zeroes.csproj", "{161BAA49-0134-45F2-9567-DC069DD32FCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus one", "Plus one\Plus one.csproj", "{E25DA898-7F65-4498-B3EB-D801E688458A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sign of the Product of an Array", "Sign of the Product of an Array\Sign of the Product of an Array.csproj", "{3F8960ED-5CF9-4E24-831B-39CEB3B92AAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{161BAA49-0134-45F2-9567-DC069DD32FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{161BAA49-0134-45F2-9567-DC069DD32FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{161BAA49-0134-45F2-9567-DC069DD32FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25DA898-7F65-4498-B3EB-D801E688458A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25DA898-7F65-4498-B3EB-D801E688458A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25DA898-7F65-4498-B3EB-D801E688458A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25DA898-7F65-4498-B3EB-D801E688458A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8960ED-5CF9-4E24-831B-39CEB3B92AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8960ED-5CF9-4E24-831B-39CEB3B92AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8960ED-5CF9-4E24-831B-39CEB3B92AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8960ED-5CF9-4E24-831B-39CEB3B92AAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
